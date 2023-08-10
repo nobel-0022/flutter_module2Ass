@@ -1,5 +1,5 @@
 void main(){
-   int subject = 880;
+   int subject = 80;
 
    if(subject >= 90 && subject <= 100){
      print("pass A+");
